@@ -1,5 +1,5 @@
 # Keylogger Overview
-In this project, I wanted to learn more about Python's capabilities and red teaming. I created a Python-based utility designed to capture and synchronize mouse and keyboard events into a local log file.
+In this project, I wanted to learn more about Python's capabilities and red teaming. I created a Python-based tool designed to capture and synchronize mouse and keyboard events into a local log file.
 
 This program is optimized for performance, utilizing distance-based filtering for mouse movements and robust exception handling for keyboard input.
 
